@@ -10,8 +10,15 @@
 - Manny Rodriguez
 
 ### Content and Deliverables
+- Created a repository, along with a stage_one branch
+- Completed team contract 
+- Created the project portfolio 
+- Wrote 3 project summaries
+- Added links to repository and project portfolio
+
 #### Signed Team Contract
 The team contract includes individual team members' goals, skills, and work preferences, team goals, roles and expectations, and signatures from each team member.
+
 #### Project Portfolio
 The project portfolio consists of:
 - 3 project ideas summaries
