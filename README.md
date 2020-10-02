@@ -3,11 +3,11 @@
 ## Team E, Tutorial 1
 
 ### Group Members
-- Gabrielle Gonzaga
-- Navjeet Hundal
-- Thien-Kim Nguyen
-- Chevy Siobhan O'Dell
-- Manny Rodriguez
+- Gabrielle Gonzaga (10100364)
+- Navjeet Hundal (30004202)
+- Thien-Kim Nguyen (30069968)
+- Chevy Siobhan O'Dell (30019806)
+- Manny Rodriguez (30046317)
 
 ### Content and Deliverables
 - Created a repository, along with a stage_one branch
