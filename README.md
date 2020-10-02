@@ -19,8 +19,8 @@
 #### Signed Team Contract
 The team contract includes individual team members' goals, skills, and work preferences, team goals, roles and expectations, and signatures from each team member.
 
-#### Project Portfolio
-The project portfolio consists of:
+#### Project Proposal
+The project proposal consists of:
 - 3 project ideas summaries
 - A link to our project portfolio: https://manols0398.wixsite.com/cpsc481-team-e 
 - A link to the stage_one feature branch that contains all our work: https://github.com/gabyrgonz/CPSC481-F20-Tutorial1-TeamE/tree/stage_one
