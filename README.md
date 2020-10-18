@@ -1,4 +1,4 @@
-# C**AR**E
+# C*AR*E
 # Team Project: Stage 2
 ## CPSC481, Fall 2020
 ## Team E, Tutorial 1
