@@ -1,26 +1,28 @@
-# CPSC481 Fall 2020
+# C**AR**E
+# Team Project: Stage 2
+## CPSC481, Fall 2020
 ## Team E, Tutorial 1
 
 ### Group Members
-- Gabrielle Gonzaga
-- Navjeet Hundal
-- Thien-Kim Nguyen
-- Chevy Siobhan O'Dell
-- Manny Rodriguez
+- Gabrielle Gonzaga (10100364)
+- Navjeet Hundal (30004202)
+- Thien-Kim Nguyen (30069968)
+- Chevy Siobhan O'Dell (30019806)
+- Manny Rodriguez (30046317)
 
-### Helpful Links
-Here are some helpful links that will help you navigate within our team's public repository.
+### Content and Deliverables
+- Created a stage_two branch 
+- Completed user research proposal
+- Updated the project portfolio 
+- Shared project portfolio on Microsoft Teams
+- Updated links to repository and project portfolio
 
-#### Project Stages
-##### *Stage One* contains the following documents:
-- Signed team contract
-- Project proposal containing 3 project ideas, a link to our *public project portfolio* and a link to this repository
-
-##### *Stage Two* 
-
-- 
-
-##### *Stage Three*
-
-- 
-
+#### Stage 2 User Research Proposal
+The user research proposal consists of:
+- Project idea proposal
+- List of potential stakeholders
+- IDEO card research and findings
+- User task and desc
+- A link to our project portfolio: https://manols0398.wixsite.com/cpsc481-team-e 
+- A link to the stage_one feature branch that contains all our work: https://github.com/gabyrgonz/CPSC481-F20-Tutorial1-TeamE/tree/stage_two
+- Appendices of the raw data from our research
