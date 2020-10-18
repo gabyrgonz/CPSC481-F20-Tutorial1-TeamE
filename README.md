@@ -16,11 +16,11 @@ Here are some helpful links that will help you navigate within our team's public
 - Signed team contract
 - Project proposal containing 3 project ideas, a link to our *public project portfolio* and a link to this repository
 
-##### *Stage Two* 
-
+##### *Stage Two* contains the following documents:
+- User research report
+- IDEO method research 
 - 
 
 ##### *Stage Three*
-
 - 
 
