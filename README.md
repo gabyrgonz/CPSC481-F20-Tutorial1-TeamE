@@ -11,20 +11,23 @@
 - Manny Rodriguez (30046317)
 
 ### Content and Deliverables 
-- TODO:
-- Created a stage_two branch 
-- Completed user research proposal
+- Created a stage_three branch
+- Brainstorming for lofi designs 
+- Affinity diagrams based off of ideas
+- Storyboard
+- Lofi prototype completed through Balsamiq
+- Demo video of our prototype
+- Cognitive Task Walkthrough of lofi prototype
+- Completed Stage 3 Report
 - Updated the project portfolio with our progress
-- Shared project portfolio on Microsoft Teams
+- Shared project presentation on Microsoft Teams
 - Updated links to repository and project portfolio
 
-- TODO
-#### Stage 2 User Research Proposal
+#### Stage 3 User Research Proposal
 The user research proposal consists of:
-- Project idea proposal
-- List of potential stakeholders
-- IDEO card research and findings
-- User task and descriptions
-- A link to our project portfolio: https://manols0398.wixsite.com/cpsc481-team-e 
-- A link to the stage_one feature branch that contains all our work: https://github.com/gabyrgonz/CPSC481-F20-Tutorial1-TeamE/tree/stage_two
-- Appendices of the raw data from our research
+- Project idea
+- Updated User tasks and descriptions
+- Storyboard
+- Cognitive Task Walkthrough Findings
+- Reflection on process
+- Appendices of the raw ideas from our research
