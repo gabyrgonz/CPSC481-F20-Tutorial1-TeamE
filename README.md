@@ -1,5 +1,5 @@
 # C*AR*E
-# Team Project: Stage 3
+# Team Project: Stage 4
 ## CPSC481, Fall 2020
 ## Team E, Tutorial 1
 
@@ -18,10 +18,10 @@
 - Updated project portfolio with stage four process
 - Completed Stage 4 Report
 - Created Stage 4 Presentation
-- Shared project presentatio on Microsoft Teams 
+- Shared project presentation on Microsoft Teams 
 
 #### Stage 4 Heuristic Evaluation Report
-The user research proposal consists of:
+The heuristic evaluation report consists of:
 - Updated project idea description
 - Updated user tasks and descriptions
 - Heuristic evaluation process, reviews, findings and discussion
