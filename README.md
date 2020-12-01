@@ -1,26 +1,38 @@
-# CPSC481 Fall 2020
+# C*AR*E
+# Team Project: Stage 5
+## CPSC481, Fall 2020
 ## Team E, Tutorial 1
 
 ### Group Members
-- Gabrielle Gonzaga
-- Navjeet Hundal
-- Thien-Kim Nguyen
-- Chevy Siobhan O'Dell
-- Manny Rodriguez
+- Gabrielle Gonzaga (10100364)
+- Navjeet Hundal (30004202)
+- Thien-Kim Nguyen (30069968)
+- Chevy Siobhan O'Dell (30019806)
+- Manny Rodriguez (30046317)
 
-### Helpful Links
-Here are some helpful links that will help you navigate within our team's public repository.
+### Content and Deliverables 
+- Created a stage_five branch
+- Updated version of hi-fi prototypes in Adobe XD
+- Updated project portfolio with stage five information
+- Completed Stage 5 Final Report
+- Shared project portfolio on Microsoft Teams
 
-#### Project Stages
-##### *Stage One* contains the following documents:
-- Signed team contract
-- Project proposal containing 3 project ideas, a link to our *public project portfolio* and a link to this repository
-
-##### *Stage Two* contains the following documents:
-- User research report
-- IDEO method research 
-- 
-
-##### *Stage Three*
-- 
+#### Stage 5 Final Report
+The Stage 5 Final Report consists of:
+- Executive Summary
+- Introduction
+- Design Problem
+- Design Solution
+- End-User and Stakeholders
+- User Research
+	- Methods, Process, and Findings
+- Important Design Choices
+- Low-Fi Design with lessons learned
+- Hi-Fi Design with lessons learned
+- Heuristic evaluation 
+	- Process, Findings, and Changes Made
+- Final Hi-Fi design with future changes
+- Conclusion
+- References
+- Appendices (including all links to portfolio, git, etc.)
 
