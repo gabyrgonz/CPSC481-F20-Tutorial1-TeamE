@@ -19,8 +19,19 @@ Here are some helpful links that will help you navigate within our team's public
 ##### *Stage Two* contains the following documents:
 - User research report
 - IDEO method research 
-- 
 
-##### *Stage Three*
-- 
+##### *Stage Three* contains the following documents:
+- Stage 3 Cognitive Task Walkthrough Report
+- Lofi prototype completed in Balsamiq
+- Cognitive Task Walkthrough
+- Stage 3 presentation 
 
+##### *Stage Four* contains the following documents:
+- Stage 4 Heuristic Evaluation Report
+- Multiple Heuristic Evaluations
+- Hifi prototype completed in Adobe XD
+- Stage 3 presentation
+
+##### *Stage Five* contains the following documents:
+- Stage 5 Final Report
+- Final Hifi prototype completed in Adobe XD
